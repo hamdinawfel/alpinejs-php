@@ -1,6 +1,5 @@
 # alpinejs-php
-> Simple blog post to test the feasibility of using Alpine.JS with php instead of jQuery and javascript.
->
+> This is a simple demo to validate using Alpine.js instead of vanilla JavaScript or JQuery with PHP for a freelance mission.
 > The test (GET IT button) showing the controle of opening and closing a modal with alpine without any javascript code
 
 ## Content
