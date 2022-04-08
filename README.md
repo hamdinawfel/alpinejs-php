@@ -26,7 +26,7 @@
 cd C:\Users\username
 mdir www
 cd www
-git clone https://github.com/hamdinawfel/thales.git
+git clone https://github.com/hamdinawfel/alpinejs-php.git
 
 ```
 ### run php server in localhost
